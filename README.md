@@ -1,4 +1,4 @@
-# Z80_Text_File_Program
+# Z80 Text File Program
 Program for managing text files written in assembly for Zilog Z80;
 
 Menu
